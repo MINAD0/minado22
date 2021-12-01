@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minado22
+- 👋 Hi, I’m @AL-MAHDI AIT-OUNZAR
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning developpement informatique
 - 📫 How to reach me mahditoto44@gmail.com
