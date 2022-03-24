@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @AL-MAHDI AIT-OUNZAR
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning developpement informatique
-- 📫 How to reach me mahditoto44@gmail.com
+- 📫 How to reach me mahditoto44@gmail.com | al0mahdi.ait1ounzar@gmail.com
 
 <!---
 minado22/minado22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
